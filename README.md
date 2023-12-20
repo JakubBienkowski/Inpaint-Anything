@@ -273,7 +273,7 @@ bash script/replace_anything.sh
 
 Specify an image, a point and text prompt, and run:
 ```bash
-python replace_anything.py \
+python cuda_num.py \
     --input_img ./example/replace-anything/dog.png \
     --coords_type key_in \
     --point_coords 750 500 \
